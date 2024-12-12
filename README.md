@@ -2,4 +2,4 @@
 .txt file - based extractor
 
 create folder with exported chat .txt file made with DiscordChatExporter
-type username to start
+ and type username to start
